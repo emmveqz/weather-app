@@ -8,7 +8,7 @@
  - Build the front-end app using:  
    `npm run build-ui`
  - Build the back-end app using:  
-   `npm run server-ui`
+   `npm run build-server`
  - Start the app:  
    `npm run start-server`
  - Access the app in your browser with the url:  
