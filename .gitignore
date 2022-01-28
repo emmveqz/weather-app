@@ -1,0 +1,7 @@
+node_modules/
+**/*.js
+!webpack.config.js
+/server-dist/*
+/ui-dist/*
+!/server-dist/.empty
+!/ui-dist/.empty
